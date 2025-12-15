@@ -7,6 +7,7 @@ function App() {
         name="Alisa Khadka"
         title="Software Engineering Intern"
         address="mechinagar-07"
+        email="alisaakhadka@gmail.com"
       />
     </div>
   )
