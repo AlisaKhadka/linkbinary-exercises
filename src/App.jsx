@@ -1,5 +1,6 @@
 import ProfileCard from "./components/ProfileCard";
 import SimpleCounter from "./components/SimpleCounter";
+import LoginForm from "./components/LoginForm";
 function App() {
 
   return (
@@ -13,6 +14,10 @@ function App() {
       />
 
       <SimpleCounter/>
+
+
+      <h3> Login Form</h3>
+      <LoginForm/>
 
     </div>
   )
